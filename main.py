@@ -194,7 +194,7 @@ def draw_graph(best_results,best_in_population,avg_pop,worst_pop):
 """6. Algorithm exec"""
 
 #parameters
-problem = "pr107.txt"
+problem = "problems/pr107.txt"
 num_of_eras = 2 #parameters
 num_of_generations = 2700
 all_time_best_result_score = 100000000
