@@ -4,4 +4,4 @@ Simple genetic algorithm for Traveling Salesman Problem. The code implements pop
 
 ![pobrany plik](https://github.com/DARTHxMICHAEL/GeneticAlgorithmForTSP/assets/30693125/706fd802-e911-460c-901d-9044329d8cce)
 
-Example results of searching for 500 ind population (for included problem with basic parameters)
+Example results of searching for 500 ind population (for included problem with basic parameters).
